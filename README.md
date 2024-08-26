@@ -54,10 +54,6 @@ To run this project locally:
 
 You can customize the look and feel of the application by modifying the `App.css` file. For example, you can adjust the glassmorphism effect by changing the `backdrop-filter`, `background-color`, or `border` properties.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## API Used
 
 Special thanks to the [REST Countries API](https://restcountries.com/) for providing the country data used in this application.
